@@ -1,2 +1,3 @@
 # roofgardening
- basic project on gardening
+ basic project on database connectivity
+ 
